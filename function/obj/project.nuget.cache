@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbuc5mM6z2O2O73KRmLBM4HL3+75saiRI3SZQbaC1PN3DYS5IQ4o3Lp6hAxVAok42KPSAh2a8qKiWKMZqL5UZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lu4lu\\OneDrive\\Рабочий стол\\prak8-master\\function\\function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lu4lu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
